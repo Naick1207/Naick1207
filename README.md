@@ -7,6 +7,13 @@ Je recherche actuellement un stage en informatique pour valider ma troisième an
 
 ---
 
+## Tables des matières
+- [Compétences](#compétences)
+- [Projets](#projets)
+- [Formation](#formation)
+- [Centres d'intérêt](#centres-dintérêt)
+- [Contact](#contact)
+
 ## Compétences
 
 ### Technologies
@@ -74,7 +81,7 @@ Contient également un **algorithme** qui affiche en priorité les **livres les 
 
 ---
 
-## Centres d'intérêts
+## Centres d'intérêt
 Mes loisirs tournent autour des jeux-vidéos et des mathématiques.
 Je pratique aussi le karaté en club, je suis actuellement à ma 10ème année.
 
