@@ -68,6 +68,16 @@ Contient également un **algorithme** qui affiche en priorité les **livres les 
 #### Frameworks
 - JavaFX
 
+### Jeu de plateforme 2D
+Jeu-vidéo de plateforme 2D incluant un éditeur de niveau, qui pourra être joué ensuite.
+Le niveau est ensuite enregistré sur un fichier externe, permettant de le partager ou bien de le stocker.
+
+#### Technologies
+- Python
+
+#### Frameworks
+- Pygame
+
 ---
 
 ## Formation
