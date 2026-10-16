@@ -42,6 +42,7 @@ Je recherche actuellement un stage en informatique pour valider ma troisième an
 
 ### Site Web Gestion de Pokémon
 Développement d'un **site web** affichant des informations sur des **Pokémons** et d'organiser sa collection, permettant d'en récupérer des **statistiques** et des **données**.
+Projet privé encore en cours.
 
 #### Technologies
 - Python
@@ -50,27 +51,22 @@ Développement d'un **site web** affichant des informations sur des **Pokémons*
 #### Frameworks
 - Django
 
-### Jeu d'échecs jouable sur un serveur
-Jeu d'échecs **sur terminal**, avec **un client et un serveur**.
-Le client permet **d'afficher le jeu** et **d'envoyer des données** au serveur qui lui gère le **matchmaking** et le **déroulement** de la partie.
+### [Site vitrine d'un club de Tennis](https://github.com/mmia-univ-s3/sae2-tennis)
+Site web vitrine servant à afficher des informations à propos **du club de Tennis de Poitevin**.
+Projet réalisé en **groupe de 4**.
 
 #### Technologies
 - Python
-
-### Application de vente de livres
-Application permettant **d'acheter des livres**, mettant à jour les données de la base.
-Contient également un **algorithme** qui affiche en priorité les **livres les plus adaptés** à l'utilisateur selon les livres qu'il a **précédemment achetés**.
-
-#### Technologies
-- Java
-- Oracle (Base de données)
+- MySQL
+- HTML/CSS
 
 #### Frameworks
-- JavaFX
+- Flask avec SQLAlchemy
+- Bootstrap 5
 
-### Jeu de plateforme 2D
-Jeu-vidéo de plateforme 2D incluant un éditeur de niveau, qui pourra être joué ensuite.
-Le niveau est ensuite enregistré sur un fichier externe, permettant de le partager ou bien de le stocker.
+### [Jeu de plateforme 2D](https://github.com/Naick1207/Plateforme-Maker)
+Jeu-vidéo de **plateforme 2D** inspiré de **Super Mario Maker** incluant un **éditeur de niveau**, qui pourra être joué ensuite.
+Le niveau est ensuite **enregistré** sur un fichier externe, permettant de le **partager** ou bien de le **stocker**.
 
 #### Technologies
 - Python
